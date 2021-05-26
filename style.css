@@ -461,9 +461,26 @@ p {
 /* contact Section */
 .form{
 	padding: 50px;
+	font-size:1.3em ;
 }
 .form input{
 	width: 300px;
+}
+
+.form .sex{
+	width: 30px;
+}
+
+.form button{
+	width: 70px;
+	height: 30px;
+	background-color: crimson;
+	color: white;
+	margin: 10px 20px;
+	outline: none;
+	border-radius: 10px;
+	border: crimson;
+	cursor: pointer;
 }
 
 
