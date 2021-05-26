@@ -459,6 +459,22 @@ p {
 /* End About Section */
 
 /* contact Section */
+.form{
+	padding: 50px;
+}
+.form input{
+	width: 300px;
+}
+
+
+.map{
+	width:600;
+	 height:450 ;
+	 border:0;
+	 justify-self: center;
+	 margin: 50px;
+
+}
 #contact .contact {
 	flex-direction: column;
 	max-width: 1200px;
